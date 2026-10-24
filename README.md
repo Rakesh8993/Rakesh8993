@@ -64,3 +64,5 @@
 ---
 
 ⭐️ *"Discipline and hard work today, world-class education tomorrow."*
+## 🐍 My GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Rakesh8993/Rakesh8993/output/snake.svg)
