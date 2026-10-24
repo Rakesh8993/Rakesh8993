@@ -145,6 +145,3 @@ A machine learning project that predicts student final scores using factors such
 ⭐ If you find my projects interesting, consider giving them a star!
 
 </div>
-
-## 🐍 My GitHub Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Rakesh8993/Rakesh8993/output/snake.svg)
